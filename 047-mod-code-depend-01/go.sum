@@ -2,3 +2,5 @@ github.com/Germanicus1/dog v0.0.0-20231010163309-7d4ae5acde52 h1:Yy2gXygwc/nmV/6
 github.com/Germanicus1/dog v0.0.0-20231010163309-7d4ae5acde52/go.mod h1:9cjC2/tWCQinVAGkePi3/goPqGtQJ/++gHke4Aj58HE=
 github.com/Germanicus1/puppy v0.0.0-20231010164006-a78e81b55045 h1:hb881SqZUU/dcN9g0FT5RdcHmItBh3O/BuwD9cob2aQ=
 github.com/Germanicus1/puppy v0.0.0-20231010164006-a78e81b55045/go.mod h1:3gQjsuisQMXFD6vvHq3xYU7J0m1wzUoj4TxdLdQ0N7I=
+github.com/Germanicus1/puppy v1.0.0 h1:+nAdAYYxv61gF9cXoqMf4GhPdPNGSE57W00cFf5vJB0=
+github.com/Germanicus1/puppy v1.0.0/go.mod h1:3gQjsuisQMXFD6vvHq3xYU7J0m1wzUoj4TxdLdQ0N7I=
